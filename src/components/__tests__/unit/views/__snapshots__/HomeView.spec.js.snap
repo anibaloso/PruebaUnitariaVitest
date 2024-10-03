@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`HomeView.vue > El HTML se mantiene en las pruebas 1`] = `
+"<main>
+  <h1>Vista Home</h1>
+</main>"
+`;
